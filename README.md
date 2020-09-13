@@ -1,2 +1,2 @@
-# CTFwriteups
-An unorganized collection of CTF writeups I make.
+# CTF Writeups
+An unorganized collection of CTF writeups I write.
